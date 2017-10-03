@@ -1,0 +1,15 @@
+{
+    "title": "mff w10",
+    "baseURL": "https:\/\/www.mffw10.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758338",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "mffw10.com"
+    }
+}
